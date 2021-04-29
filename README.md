@@ -3,5 +3,3 @@ The CIFAR-10 dataset
 https://www.cs.toronto.edu/~kriz/cifar.html
 
 Images placed in folders by classes.
-
-Well this is test branch
