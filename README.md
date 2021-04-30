@@ -1,5 +1,5 @@
-# CIFAR-10
-The CIFAR-10 dataset
+# CIFAR-10 by classes folder
+From:
 https://www.cs.toronto.edu/~kriz/cifar.html
 
-Images placed in folders by classes.
+
